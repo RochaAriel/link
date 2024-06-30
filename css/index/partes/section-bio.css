@@ -33,7 +33,7 @@ section.bio .titulo .foto {
   margin: 0 0 20px 0;
 }
 section.bio .titulo h2 {
-  font-family: 'montserrat-black';
+  font-family: 'Zaptron';
   font-size: clamp(2rem, 1vw, 4rem);
   color: var(--cor-principal);
 }
@@ -41,7 +41,7 @@ section.bio .titulo h3 {
   font-family: 'montserrat-medium';
   font-size: clamp(1.2rem, 1vw, 2rem);
   color: var(--cor-branco);
-  letter-spacing: 10px;
+  letter-spacing: 3px;
 }
 section.bio .titulo p {
   font-family: 'montserrat-medium';
