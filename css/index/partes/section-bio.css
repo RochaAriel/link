@@ -45,9 +45,9 @@ section.bio .titulo h3 {
 }
 section.bio .titulo p {
   font-family: 'montserrat-medium';
-  font-size: clamp(0.8rem, 1vw, 1rem);
-  color: var(--cor-cinza-claro);
-  line-height: 1.5;
+  font-size: clamp(0.9rem, 1.5vw, 2rem);
+  color: var(--cor-branco);
+  line-height: 2;
   margin: 10px 0 15px 0;
 }
 /* <div class="links"> */
